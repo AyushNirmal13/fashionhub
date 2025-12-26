@@ -2,32 +2,48 @@
 
 This project is a **frontend recreation and improvisation** of a fashion website concept originally showcased on Dribbble.
 
-🔗 Original Design Inspiration:  
-https://dribbble.com/shots/16636382-Fashion-Look-Website-concept
+🔗 **Original Design Inspiration**  
+https://dribbble.com/shots/16636382-Fashion-Look-Website-concept  
+
+🌐 **Live Project Link**  
+https://fashionhub-omega.vercel.app/
 
 ---
 
 ## 📌 About the Project
 
-The goal of this project was to:
-- Study a **modern fashion website layout**
-- Recreate the UI using **HTML and CSS Grid**
-- Apply my **own understanding of layout, alignment, and styling**
-- Improve the design by making it **responsive for mobile devices**
+This project was built as a **learning-focused frontend exercise**.  
+The primary objective was to study a modern fashion landing page design and recreate it using core web technologies.
 
-This is **not a 1:1 copy**.  
-I recreated the structure as closely as possible while **implementing my own logic, fixes, and improvements**, especially for responsiveness.
+- The **visual concept and content** are inspired by the original Dribbble design.
+- The **implementation (HTML, CSS, layout logic)** is done by me.
+- The layout was further **improvised for responsiveness**, especially for mobile screens.
+
+This is **not an exact 1:1 copy**, but a close recreation with my own technical approach and adjustments.
+
+---
+
+## ⚠️ Copyright & Credits
+
+> **Important Notice**
+
+- All **design inspiration, textual content, and media concepts** used in this project belong to their respective original owners.
+- I **do not claim ownership** over the design or content.
+- This project is created **strictly for educational and practice purposes**.
+- No commercial use is intended.
+
+Full credit goes to the original designer and content owners.
 
 ---
 
 ## 🚀 Features
 
-- CSS Grid–based layout
-- Inline text decoration using pseudo-elements (`::after`)
-- Full-height video section
-- Overlay icons (search & navigation arrow)
-- Responsive adjustments for smaller screens
-- Clean, editorial-style typography inspired by fashion websites
+- CSS Grid–based layout structure
+- Editorial-style typography inspired by fashion websites
+- Inline text decoration using `::after` pseudo-elements
+- Full-height background video section
+- Overlay icons (search and navigation arrow)
+- Responsive behavior for different screen sizes
 
 ---
 
@@ -41,32 +57,21 @@ I recreated the structure as closely as possible while **implementing my own log
 
 ## 📱 Responsiveness
 
-The original Dribbble design was primarily desktop-focused.  
-In this project, I:
-- Adjusted layout spacing for smaller screens
-- Ensured text, video, and icons adapt properly
-- Avoided fixed viewport-breaking dimensions where possible
+The original Dribbble concept was desktop-oriented.  
+In this recreation, I focused on:
+- Making the layout adaptable to smaller screens
+- Ensuring text, icons, and video scale properly
+- Improving usability on mobile devices
 
 ---
 
 ## 🎯 Learning Outcomes
 
-Through this project, I practiced:
+Through this project, I practiced and improved:
 - CSS Grid layout planning
 - Absolute vs relative positioning
-- UI detailing using `::after` pseudo-elements
-- Translating a visual design into working code
-- Improving an existing design with my own frontend knowledge
+- Pseudo-elements for UI detailing
+- Translating visual designs into working code
+- Enhancing an existing design with responsive behavior
 
 ---
-
-## ⚠️ Disclaimer
-
-This project is created **for learning and practice purposes only**.
-
-- Design inspiration belongs to the original designer on Dribbble
-- All code is written by me
-- No commercial use intended
-
----
-
