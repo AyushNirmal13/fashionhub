@@ -70,8 +70,4 @@ This project is created **for learning and practice purposes only**.
 
 ---
 
-## 📂 How to Run Locally
-
-1. Clone the repository
-   ```bash
    git clone https://github.com/USERNAME/REPO_NAME.git
