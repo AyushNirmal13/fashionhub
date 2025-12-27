@@ -35,7 +35,6 @@ This is **not an exact 1:1 copy**, but a close recreation with my own technical 
 Full credit goes to the original designer and content owners.
 
 ---
-
 ## 🚀 Features
 
 - CSS Grid–based layout structure
@@ -44,6 +43,18 @@ Full credit goes to the original designer and content owners.
 - Full-height background video section
 - Overlay icons (search and navigation arrow)
 - Responsive behavior for different screen sizes
+
+---
+
+## 🎞️ Animations (GSAP)
+This project uses GSAP (GreenSock Animation Platform) to implement a timeline-based page entry animation commonly seen in premium fashion and editorial websites.
+**Animation Highlights**
+- Page loader built using multiple overlay divs
+- Vertical wipe animation achieved by growing div height from `0% → 100%`
+- Sequenced animations using GSAP timelines
+- Controlled overlaps for smooth visual flow
+- Loader overlays enter sequentially from bottom to top
+- Overlays exit smoothly in the same vertical direction
 
 ---
 
